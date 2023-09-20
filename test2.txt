@@ -1,1 +1,2 @@
 hi im folder2
+hi from folder 1
